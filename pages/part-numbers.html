@@ -1,0 +1,50 @@
+---
+title: Part Numbers
+permalink: /part-numbers
+---
+
+A selection of useful part numbers for various MK4 Golf platforms.
+<br><br>
+<strong>I do not accept any responsibility for any purchases you make based off the following list.</strong>
+<br><br>
+
+<table id="parts_list" class="table is-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Model</th>
+                <th>Item</th>
+                <th>Part Number</th>
+                <th>Quantity</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Model</th>
+                <th>Item</th>
+                <th>Part Number</th>
+                <th>Quantity</th>
+                <th>Location</th>
+            </tr>
+        </tfoot>
+    </table>
+
+<script>
+$(document).ready(function () {
+    $('#parts_list').DataTable({
+        lengthMenu: [
+            [25, 50, -1],
+            [25, 50, 'All'],
+        ],
+        ajax: {
+            url: "assets/part_number_catalogue.csv",
+            dataType: "text",
+            dataSrc: function (csvdata) {
+                return $.csv.toArrays(csvdata);
+            }
+        }
+    });
+});
+</script>

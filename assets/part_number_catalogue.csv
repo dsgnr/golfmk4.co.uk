@@ -1,0 +1,187 @@
+MK4 R32,Inlet manifold gromet,022133588B,x9,Exhaust/Engine
+MK4 R32,Inlet manifold gasket,022133237D,x1,Exhaust/Engine
+MK4 R32,Throttle body gasket,022133237C,x1,Exhaust/Engine
+MK4 R32,Throttle body bolts,N10127002,x4,Exhaust/Engine
+MK4 R32,Inlet manifold lower bolts,WHT007679,x9,Exhaust/Engine
+MK4 R32,Exhaust manifold to downpipe gasket,022254050C,x1,Exhaust/Engine
+MK4 R32,Exhaust manifold to downpipe gasket,022254039E,x1,Exhaust/Engine
+MK4 R32,exhaust manifold hexagon collar nut self,N91130801,x14,Exhaust/Engine
+MK4 R32,Exhaust manifold studs,N0444115,x14,Exhaust/Engine
+MK4 R32,Breather pipe,022103474H,x1,Exhaust/Engine
+MK4 R32,Hose clamp,N90686701,x1,Exhaust/Engine
+MK4 R32,Rocker cover gasket,022103483E,x1,Exhaust/Engine
+MK4 R32,Rocker cover cylinder/plug gaskets,022103484F,x6,Exhaust/Engine
+MK4 R32,Rocker cover bolts,022103831B,x9,Exhaust/Engine
+MK4 R32,Rocker cover sleeve,022103831C,x2,Exhaust/Engine
+MK4 R32,Rocker cover nut,N90175205,x2,Exhaust/Engine
+MK4 R32,Headlight levelling sensor nuts,N01118312,x2,Front
+MK4 R32,Dust shield,8N0615311C,x1,Front
+MK4 R32,Dust shield,8N0615312C,x1,Front
+MK4 R32,dust shield bolts,N90305304,x6,Front
+MK4 R32,front calliper carrier bolts,N90708504,x4,Front
+MK4 R32,Wishbone rear bolt,n90484004, x2,Front
+MK4 R32,Wishbone front bolt,n10207804, x2,Front
+MK4 R32,Wishbone front nut,N0150816,x2,Front
+MK4 R32,Horrizontal bolt to hold shock to hub,N10207804,x2,Front
+MK4 R32,nut to hold bot for shock to hub,N10106402,x2,Front
+MK4 R32,bottom ball joint,8N0407365C,x2,Front
+MK4 R32,bottom ball joint to hub nut,n90808801,x2,Front
+MK4 R32,bottom ball joint nuts,N10332002,x6,Front
+MK4 R32,Wheel hub,8N0407613C, x2,Front
+MK4 R32,Hub bolt,4A0407643A, x2,Front
+MK4 R32,Snapring,N90663201,x2,Front
+MK4 R32,wheel bearing,8L0498525B,x2,Front
+MK4 R32,sway bar end link nuts,N0150816,x4,Front
+MK4 R32,Sway bar end link,1J0411315D,x1,Front
+MK4 R32,Sway bar end link,1J0411316D, x1,Front
+MK4 R32,Anti roll bar bracket bolt,N10101603, x2,Front
+MK4 R32,Anti roll bar clamp,1J0411336D, x2,Front
+MK4 R32,Top mount bearing,1J0412249, x2,Front
+MK4 R32,Top mount bush,1J0412331C, x2,Front
+MK4 R32,Top mount bush nut,1H0412365A, x2,Front
+MK4 R32,Top mount bracket,1J0412319C, x2,Front
+MK4 R32,Top mount nut,N90353604, x2,Front
+MK4 R32,Top mount cap,1J0412359, x2,Front
+MK4 R32,front drive shaft bolts,N90991102,x12,Front
+MK4 R32,front drive shaft quarter circle metal washer things,1K0407257D,x6,Front
+MK4 R32,Front disc,8N0615301B,x1,Front
+MK4 R32,Front disc,8N0615302B,x1,Front
+MK4 R32,front disc screw,N10648301,x2,Front
+MK4 R32,brake hose bracket holder bolt,N90071102,x2,Front
+MK4 R32,front left brake hose holder,1J0611847E,x1,Front
+MK4 R32,front left brake hose holder,1J0611845D,x1,Front
+MK4 R32,front right brake hose holder,1J0611846F,x1,Front
+MK4 R32,front right brake hose holder,1J0611848C,x1,Front
+MK4 R32,Brake line heat shields,1J0611732,x2,Front
+MK4 R32,front brake line from calliper to hard line,1J0611702,x1,Front
+MK4 R32,front brake line from calliper to hard line,1J0611701F,x1,Front
+MK4 R32,speed sensor,1J0927804,x1,Front
+MK4 R32,speed sensor,1J0927803,x1,Front
+MK4 R32,speed sensor screw,N01474011,x2,Front
+MK4 R32,passenger hard line from pump to calliper,1J0614723L,x1,Front
+MK4 R32,drivers hard line from pump to calliper,1J2614724L,x1,Front
+MK4 R32,Subframe rear bolts,n90752802,x2,Front subframe
+MK4 R32,Subframe front bolts,n90734902,x2,Front subframe
+MK4 R32,dogbone transmission mount to subframe bolts x2,N10268304,x2,Front subframe
+MK4 R32,dogbone transmission mount longer bolt to transmission,n10241508,x1,Front subframe
+MK4 R32,dogbone transmission mount smaller bolt (at the rear),N10653503,x1,Front subframe
+MK4 R32,Rear prop shaft bolts,WHT005179,x3,Middle
+MK4 R32,Rear prop shaft bolts,N90846102,x6,Middle
+MK4 R32,Fuel filter,1J0201511A,x1,Misc
+MK4 R32,Power steering fluid,G004000M2,x1,Misc
+MK4 R32,Brake Fluid,B000750M3,x3,Misc
+MK4 R32,G13 Coolant,G12E050A2,x4,Misc
+MK4 R32,rear arm bracket to chassis,N90648402,x8,Rear Arms
+MK4 R32,Trailing arm bush,1J0505171B,x2,Rear Arms
+MK4 R32,control arm bolts to diff cradle and rear arm horizontal bolt,N10428002,x6,Rear Arms
+MK4 R32,control arm bolts to rear arm,N10416201,x4,Rear Arms
+MK4 R32,control arm nuts,N10106402,x8,Rear Arms
+MK4 R32,rear arm bushes,1J0505203,x4,Rear Arms
+MK4 R32,shock to hub bolt,N10428101,x2,Rear Arms
+MK4 R32,drop link top nut,N10286110,x2,Rear Arms
+MK4 R32,arb bracket,8A0511439,x2,Rear Arms
+MK4 R32,wheel bearing,1J0598625,x2,Rear Arms
+MK4 R32,wheel hub,1J0407613G,x2,Rear Arms
+MK4 R32,rear hub nuts,N90587602,x2,Rear Arms
+MK4 R32,shock to chassis,N90781301,x2,Rear Arms
+MK4 R32,spring bottom,1J0511155D,x2,Rear Arms
+MK4 R32,spring top,1J0512149G,x2,Rear Arms
+MK4 R32,brake line and sensor tube left,1J0971851D,x1,Rear Arms
+MK4 R32,brake line and sensor tube right,1J0971852D,x1,Rear Arms
+MK4 R32,Brake line clip,5Q0611797B,x2,Rear arms
+MK4 R32,Brake line clip,8K0611797G,x4,Rear arms
+MK4 R32,arb bracket bolts,N0102466,x4,Rear Arms
+MK4 R32, drop link,1J0505466B, x2,Rear Arms
+MK4 R32,Rear disks,8n0615601b,x2,Rear Arms
+MK4 R32,Rear pads (pair),1j0698451L,x1,Rear Arms
+MK4 R32,Speed sensor,1J0927807D,x2,Rear Arms
+MK4 R32,Speed sensor screw,N01474011,x2,Rear Arms
+MK4 R32,Rear brake hard line,1J0611763L,x1,Rear Arms
+MK4 R32,Rear brake hard line,1J0611764L,x1,Rear Arms
+MK4 R32,Brake line brackets,191611715,x6,Rear Arms
+MK4 R32,Handbrake bracket bushing,1J0609741B,x2,Rear Arms
+MK4 R32,Handbrake clip,1H0609747,x2,Rear Arms
+MK4 R32,Rear brake pads,1J0698451L,x1,Rear Arms
+MK4 R32,Rear pads,1J0698451L,x2,Rear Arms
+MK4 R32,Rear disc screw,N10648301,x2,Rear Arms
+MK4 R32,brake line retaining spring,191611715,x6,Rear arms
+MK4 R32,Rear brake line mounting bracket,1J0611848D,x1,Rear Arms
+MK4 R32,Rear brake line mounting bracket,1J0611848D,x1,Rear Arms
+MK4 R32,Rear discs,8N0615601B,x2,Rear Arms
+MK4 R32,Rear calliper,1J0615424G,x1,Rear Arms
+MK4 R32,Rear calliper,1J0615423F,x1,Rear Arms
+MK4 R32,Rear calliper carriers,1J0615425F,x2,Rear Arms
+MK4 R32,Calliper guide pin bolts,WHT003252,x4,Rear Arms
+MK4 R32,Calliper carrier bolts,N90740302,x4,Rear Arms
+MK4 R32,Dust shield,8L0815811,x2,Rear Arms
+MK4 R32,Dust shield screws,N90305304,x6,Rear Arms
+MK4 R32,Flexi brake line,6Q0611775B,x2,Rear Arms
+MK4 R32,handbrake cable,1J0609721AR,x2,Rear Arms
+MK4 R32,passenger hard line from rear arm to pump,1J0614742AB,x1,Rear Arms
+MK4 R32,drivers hard line from rear arm to pump,1J0614742AD,x1,Rear Arms
+MK4 R32,Rear diff earth strap,1J0971537C,x1,Rear diff
+MK4 R32,Rear left drive shaft (exchange part),1j0501203bx,x1,Rear diff
+MK4 R32,Rear right drive shaft (exchange part),1j0501204bx,x1,Rear diff
+MK4 R32,rear drive shaft bolts,N91108201,x12,Rear diff
+MK4 R32,rear drive shaft quarter circle metal washer things,1K0407357C,x6,Rear diff
+MK4 R32,Rear diff cradle bushes (top),1J0505145B,x4,Rear diff
+MK4 R32,Rear diff cradle bushes (sides),1J0599257B,x2,Rear diff
+MK4 R32,Rear diff cradle pendulum bushes,1J0599381A,x2,Rear diff
+MK4 R32,Rear diff cradle bolts,N90314201,x4,Rear diff
+MK4 R32,Rear diff cradle side bolts and pendulum bolts,N90836401,x8,Rear diff
+MK4 R32,Pendulum bolts big,N10477101,x1,Rear diff
+MK4 R32,Pendulum bolts small,N0447068,x2,Rear diff
+MK4 R32,Exhaust heat shield clamping washer,N90796502,x6,Rear diff
+MK4 R32,Steering column bolt,N10072202,x1,Steering
+MK4 R32,Steering rack banjo bolt,N0210748,x1,Steering
+MK4 R32,Steering rack banjo bolt,N90809302,x1,Steering
+MK4 R32,steering rack hydraulic hose washers,N0138495,x2,Steering
+MK4 R32,steering rack hydraulic hose washers,N0138487,x2,Steering
+MK4 R32,steering rack o-ring,1J0422187A,x1,Steering
+MK4 R32,Tie rods left (includes track end),8n0422803d,x1,Steering
+MK4 R32,Tie rods right (includes track end),8N0422804D,x1,Steering
+MK4 R32,Track end nut to knuckle,N90323706,x2,Steering
+MK4 R32,track rod boots,8n0422831,x2,Steering
+MK4 R32,Outer track rod clip,n10197601,x2,Steering
+MK4 R32,Inner track rod clip,n90834901,x2,Steering
+MK4 R32,steering rack bush bracket,1j0422874a,x1,Steering
+MK4 R32,Steering rack bush bracket nuts,N02300313,x2,steering
+MK4 R32,Steering rack bush bolts,n10015507,x4,Steering
+MK4 R32,Steering rack to subframe bolts,N10015507,x4,Steering
+MK4 R32,Fuel tank bolts,N0195308,x6,Fuel Tank
+MK4 R32,Fuel tank straps,1J0201655G,x2,Fuel Tank
+MK4 R32,Fuel tank heat shield nuts,n91130801,x2,Fuel Tank
+MK4 R32,Fuel tank heat shield washers,n90057703,x2,Fuel Tank
+MK4 R32,Brake line rubber spacer sleeve,1J0611853,x10,Fuel Tank
+MK4 R32,Heat shield gaskets,n90796502,x10,Fuel Tank
+MK4 R32,Fuel filler neck screw,N90732102,x1,Fuel Tank
+MK4 R32,Fuel cap,1J0201550BF9B9,x1,Fuel Tank
+MK4 R32,Indicator light housing,1J0949117,x1,Misc
+MK4 R32,Headlight washer lifter,1J0955978B,x1,Misc
+MK4 R32,brake line clamp,1H0611797C,x1,Rear Arms
+MK4 R32,Brake line clamp,811611797,x6,Rear
+MK4 R32,,N02300313,x2,
+MK4 R32,Brake Fluid,B000750M3,x2,Misc
+MK4 R32,Power steering fluid,G004000M2,x2,Misc
+MK4 R32,coolant,G12E050A2,x4,Misc
+MK4 R32,Retrofit ComfortBlinker,000998229A,x1,Misc
+MK4 R32,Coolant Tank,1J0121403B,x1,Engine
+MK4 R32,Battery cover trim,1J0915335A,x1,Engine
+MK4 R32,Battery cover trim,1J0915337,x1,Engine
+MK4 R32,Battery cover trim,1J0915345C,x1,Engine
+MK4 R32,Battery cover trim,1J0915435C,x1,Engine
+MK4 R32,Brake line shock bracket bolt,N90071102,x2,Front
+MK4 R32,Wishbone bracket for headlight adjuster,8N0941355C,x1,Front
+MK4 R32,Wishbone bracket for headlight adjuster bolt,N10101603,x1,Front
+MK4 R32,front headlight adjuster nuts,N01118312,x2,Front
+MK4 R32,front headlight adjuster bracket nut,N90106304,x2,Front
+MK4 R32,front headlight adjuster bracket rivnut,N90814401,x2,Front
+MK4 R32,front headlight adjuster anti twist bracket,1J0 911 483,x1,Front
+MK4 R32,Rear headlight adjuster to rear diff bracket,1J0943453D,x1,Rear Arms
+MK4 R32,Rear headlight adjuster sensor,4B0 907 503 A,x1,Rear Arms
+MK4 R32,Rear headlight adjuster linkage,1J0 941 299 B,x1,Rear Arms
+MK4 R32,rear headlight adjuster linkage bracket,1J0 941 447 A,x1,Rear Arms
+MK4 R32,rear headlight adjuster nuts,N01118312,x3,Rear Arms
+MK4 R32,rear headlight adjuster bracket to diff screws,N10486501,x2,Rear Arms
+MK4 R32,headlight adjuster to sensor screws,N10434301,x3,Rear Arms
+MK4 R32,front headlight adjuster linkage,,x1,Front

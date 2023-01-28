@@ -14,44 +14,37 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: tw-jekyll
-email: your-email@domain.com
-author: Dinosaur Avocado
+title: golfmk4.co.uk
+email: contact@golfmk4.co.uk
+author: "@dsgnr"
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A resource store for Volkswagen Golf MK4 enthusiasts.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/tw-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://vsoch.github.io" # the base hostname & protocol for your site
+url: "https://golfmk4.co.uk" # the base hostname & protocol for your site
+google-analytics: "G-GRPV22RS2E"
 
 # Keywords (space separated)
-keywords: "documentation theme"
+keywords: "golf mk4 vw r32 parts diy guides"
 
 # Add colorful permalinks to headers
 # change colors in _includes/permalinks.html
-add_permalinks: true
+add_permalinks: false
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-support: https://github.com/vsoch/tw-jekyll/issues
-repo: https://github.com/vsoch/tw-jekyll
-github_user: vsoch
-github_repo: tw-jekyll
-# discord: https://community.discord.com
+repo: https://github.com/dsgnr/golfmk4.co.uk
 
 # If you have a logo, put here to include in meta tags
-logo: assets/img/tw-jekyll.png
+logo: ""
 
 # branch to edit on GitHub
 github_branch: main
 
 # If not set, badge color (background) defaults to violet
-# badge_color: "#2bcf98"
+badge_color: "#444"
 badge_rounded: true
 
 # Build settings
@@ -79,19 +72,7 @@ collections:
 # Defaults
 defaults:
   - scope:
-      path: "_docs"
-      type: "docs"
-    values:
-      layout: page
-  -
-    scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
-      path: "posts"
-      type: "posts"
-    values:
-      layout: "post"

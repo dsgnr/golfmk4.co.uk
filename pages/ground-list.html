@@ -1,0 +1,48 @@
+---
+title: Ground List
+permalink: /ground-list
+---
+
+Known ground points for the MK4 Golf/Jetta
+<br><br>
+
+<table id="ground_list" class="table is-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Ground</th>
+                <th>Torque (NM)</th>
+                <th>Location</th>
+                <th>Description</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Ground</th>
+                <th>Torque (NM)</th>
+                <th>Location</th>
+                <th>Description</th>
+                <th>Notes</th>
+            </tr>
+        </tfoot>
+    </table>
+
+<script>
+$(document).ready(function () {
+    $('#ground_list').DataTable({
+        lengthMenu: [
+            [25, 50, -1],
+            [25, 50, 'All'],
+        ],
+        ajax: {
+            url: "assets/ground_list.csv",
+            dataType: "text",
+            dataSrc: function (csvdata) {
+                return $.csv.toArrays(csvdata, {"separator": "|"});
+            }
+        }
+    });
+});
+</script>

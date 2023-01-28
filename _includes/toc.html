@@ -1,7 +1,3 @@
-<script
-  src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-  crossorigin="anonymous"></script>
 <script>
 $(document).ready(function() {
 
@@ -29,7 +25,7 @@ function slugify(string) {
 
         // If we don't have an id, derive one from title
         if (!div_id) {
-            div_id = slugify(div_text);        
+            div_id = slugify(div_text);
             section.attr("id", div_id)
         }
 
@@ -47,7 +43,7 @@ function slugify(string) {
                 var contender_text = $(contender).text();
 
                 if (!contender_id) {
-                    contender_id = slugify(contender_text);        
+                    contender_id = slugify(contender_text);
                     $(contender).attr("id", contender_id)
                 }
 

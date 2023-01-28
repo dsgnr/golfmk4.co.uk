@@ -1,0 +1,63 @@
+---
+title: Fuse List
+permalink: /fuse-list
+---
+
+Known fuse list for the MK4 Golf/Jetta
+<br><br>
+
+<table id="fuse_list" class="table is-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Fuse</th>
+                <th>Amps</th>
+                <th>Fuse Panel</th>
+                <th>Engine Comp.</th>
+                <th>Relay Panel</th>
+                <th>Battery</th>
+                <th>Battery</th>
+                <th>Relay Panel</th>
+                <th>Ignition Switch</th>
+                <th>Light Switches</th>
+                <th>Description</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Fuse</th>
+                <th>Amps</th>
+                <th>Fuse Panel</th>
+                <th>Engine Comp.</th>
+                <th>Relay Panel</th>
+                <th>Battery</th>
+                <th>Battery</th>
+                <th>Relay Panel</th>
+                <th>Ignition Switch</th>
+                <th>Light Switches</th>
+                <th>Description</th>
+                <th>Notes</th>
+            </tr>
+        </tfoot>
+    </table>
+
+<script>
+$(document).ready(function () {
+    $('#fuse_list').DataTable({
+        lengthMenu: [
+            [25, 50, -1],
+            [25, 50, 'All'],
+        ],
+        sort: false,
+        ajax: {
+            url: "assets/fuse_list.csv",
+            dataType: "text",
+            dataSrc: function (csvdata) {
+                return $.csv.toArrays(csvdata, {"separator": "|"});
+            }
+        }
+    });
+});
+</script>

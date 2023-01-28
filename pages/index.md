@@ -1,25 +1,24 @@
 ---
 layout: page
-title: Tw-Jekyll Theme
+title: golfmk4.co.uk
 permalink: /
 ---
 
-# Welcome to Tailwind Jekyll!
+## Welcome!
 
-This is a [starter template](https://vsoch.github.com/tw-jekyll/) for a Tailwind jekyll theme, based
-on [these docs](https://github.com/superfly/docs) that are based on [Tailwind css](https://tailwindcss.com/docs/installation),
-however everything has been modified to work on GitHub pages (using Jekyll). If you don't need
-native deployment on GitHub pages, then please consider checking out Tailwind. 
-The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICENSE) is included.
+This website has been created to house an assortment of helpful information that I've collected 
+throughout my Volkswagen Golf MK4 ownership. If you're here, you know that DIY guides and 
+part numbers, can be found over the internet. Some of these pages have broken images 
+and others lead to nowhere. This site is designed to be open-source and stored on 
+[GitHub]({{ site.repo }}){:target="_blank"}, meaning anyone can contribute if they feel inclined.
 
-## Purpose
+I do not claim ownership, or origin of the data provided on this site, unless otherwise stated.
 
-GitHub pages uses Jekyll natively, so when I make documentation, I typically
-look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
-and allow for users to easily contribute, and build automatically just by
-way of pushing to a main branch (or general GitHub pages).
+<strong>All information provided on this site is to be used at your own risk. 
+No liability or responsibility can be taken for anything obtained from this site. 
+The information provided here is purely for friendly sharing amongst the community.</strong>
 
-{% include callout.html text="I fell in love with this template as soon as I saw it, and knew that I wanted others to be empowered to use it." %}
+## Contributing
 
-For getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute? [Open an issue]({{ site.repo }}/issues)
-
+If you would like to contribute something to this site, 
+please email [contact@golfmk4.co.uk](mailto:contact@golfmk4.co.uk) and I will be sure to take a look!

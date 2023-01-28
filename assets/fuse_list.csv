@@ -1,0 +1,55 @@
+S1|10|1|||||75x|||Washer nozzle heaters, glove compartment light, memory seat control module||
+S2|10|2|||||75x|||Turn signal lights||
+S3|5|3|||||||E1/58|Fog light relay, instrument panel light dimmer switch||
+S4|5|4|||||||E1/58|License plate light||
+S5|7.5|5||||||D/15||Comfort system, cruise control, Climatronic, A/C, heated seat control modules, automatic day/night interior mirror, control module for multi-function steering wheel, control unit in steering wheel, daytime running lights change-over relay, Data Link Connector (DLC)||
+S6|5|6||||||D/15||Central locking system {before May 2001}||
+S7|10|7||||||D/15||Back-up lights, speedometer vehicle speed sensor (VSS)||
+S9|5|9||||||D/15||Anti-lock brake system (ABS)||
+S10|Note|10|||||30|D/86S||Engine control elements (coils) 30 {through October 2001}; Terminal 86S (instrument cluster) {from November 2001}|10 for gasoline engine; 5 for diesel engine, Model Year 2000 >
+S11|5|11||||||D/15||Instrument cluster, shift lock solenoid||
+S12|7.5|12|||||30|||Data Link Connector (DLC) power supply||
+S13|10|13|||||30|||Brake lights||
+S14|10|14|||||30|||Interior lights, central locking system||
+S15|5|15|||||30|||Instrument cluster, transmission control module (TCM), steering angle sender||
+S16|10|16|||||30|||A/C clutch, after-run coolant pump||
+S18|10|18|||||||E4/56a|Headlight high beam, right||
+S19|10|19|||||||E4/56a|Headlight high beam, left||
+S20|15|20|||||||Note|Headlight low beam, right|Jetta - E4/56b; Golf - E1/56b
+S21|15|21|||||||Note|Headlight low beam, left|Jetta - E4/56b, Golf - E1/56b
+S22|5|22|||||||E1/58R|Parking lights right, side marker right, instrument cluster backlights||
+S37|Note|||X|||30|||Power windows|Circuit breaker on thirteenfold auxiliary relay panel
+S51|20||X|||S162||||Brake system vacuum pump|Automatic transmission only
+S111|15|||G|||30|||Alarm system and anti-theft (horn)|Red-Yellow wire
+S130|40||X|||S162||||Secondary air pump|Automatic transmission only
+S144|15|||F|||30|||Central locking/anti-theft warning system (turn signal)|Red-Black wire
+S162|50||||1|A||||Secondary air pump, gasoline engine; Glow plugs (coolant) diesel engine||
+S163|50||||2|A||||Fuel pump (FP) relay/glow plug relay/controller||
+S164|40||||3|A||||Coolant fan control (FC) control module/coolant fan||
+S176|110||||4|A||||Relay panel interior||
+S177|Note||||5|A||||Generator (GEN)|110 for 90amp gen.; 150 for 120amp gen.
+S178|30||||6|A||||ABS (hydraulic pump)||
+S179|30||||7|A||||ABS||
+S180|30||||8|A||||Coolant fan||
+S223|5|23|||||||E1/58L|Parking lights left, side marker left, instrument cluster backlights||
+S224|20|24|||||75x|||Windshield and rear window washer pump, windshield wiper motor||
+S225|25|25|||||75x|||Fresh air blower, Climatronic, A/C||
+S226|25|26|||||75x|||Rear window defogger||
+S227|15|27|||||75x|||Motor for rear windshield wiper||
+S228|15|28|||||87|||Fuel pump (FP)||
+S229|15|29||||||D/15||Engine control module (ECM)|15 for gasoline engine; 10 for diesel engine
+S230|20|30|||||30|||Power sunroof control module||
+S231|20|31||||||D/15||Transmission control module (TCM)||
+S232|Note|32|||||87|||Injectors|10 for gasoline engine; 15 for diesel engine
+S233|20|33|||||30|||Headlight washer system||
+S234|10|34|||||87|||Engine control elements||
+S235|30|35|||||30|||12 V power outlet (in luggage compartment)||
+S236|15|36||||||D/75||Front and rear fog lights||
+S237|10|37|||||30|D/86S||Terminal (86S) on radio, instrument cluster {through October 2001}; Engine control elements (coils) 30 {from November 2001}||
+S238|15|38|||||30|||Central locking system (with power windows), luggage compartment light, remote/fuel tank door, motor to unlock rear lid||
+S239|15|39|||||30|||Emergency flashers||
+S240|20|40|||||30|||Dual tone horn||
+S241|15|41|||||30|||Cigarette lighter||
+S242|25|42|||||30|||Radio||
+S243|10|43|||||87|||Engine control elements||
+S244|Note|44|||||30|||Heated seats/power seats|15 for heated seat; 30 for power seats
